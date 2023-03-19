@@ -52,6 +52,7 @@ function App() {
         axios.post('/points-in-circles/', {...obj})
             .then((res) => {
                  console.log('Done!');
+
                  setN('');
                  setIsLoading(false);
                  clearCanvas();
