@@ -125,7 +125,7 @@ USE_TZ = True
 
 STATIC_URL = 'front/build/static/'
 
-STATIC_ROOT = BASE_DIR / 'front'
+STATIC_ROOT = BASE_DIR / 'front/build'
 
 STATICFILES_DIRS = [
     BASE_DIR / 'front/build/static'
