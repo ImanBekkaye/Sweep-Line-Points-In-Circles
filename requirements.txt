@@ -13,3 +13,4 @@ tzdata==2022.7
 urllib3==1.26.15
 yarg==0.1.9
 gunicorn
+whitenoise
