@@ -1,6 +1,6 @@
 # Sweep Line Points-In-Circles Testing
 
-This project is an implementation of the Sweep Line Points-In-Circles Testing algorithm in Python with O(n log n) time complexity. The frontend is built using React.
+This project is an implementation of the Sweep Line Points-In-Circles Testing algorithm in Python with O(n log n) time complexity.
 
 ## Prerequisites
 
