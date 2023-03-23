@@ -9,7 +9,7 @@ from backApp.services import generate_random_circles, is_point_inside_circles
 
 
 def main(request):
-    return render(request, 'index.html')
+    return JsonResponse({'name': 'App started!'})
 
 
 @csrf_exempt
