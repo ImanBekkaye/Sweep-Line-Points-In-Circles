@@ -129,7 +129,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     # os.path.join(BASE_DIR, 'front/staticfiles'),
     # os.path.join(BASE_DIR, 'front/build'),
-    # os.path.join(BASE_DIR, 'front/build/static'),
+    os.path.join(BASE_DIR, 'front/build/static'),
     # # os.path.join(BASE_DIR, 'front/build')
 ]
 # Default primary key field type
